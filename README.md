@@ -18,3 +18,7 @@ To use.
     192.168.0.1  # host to connect to
     password     # password to access rcon
     25575        # port to connect to
+    
+ To see in use:
+ 
+    https://youtu.be/Zo6UiUXr3EY
